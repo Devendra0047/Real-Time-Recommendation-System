@@ -14,5 +14,5 @@ Serving Recommendations:
 Create a Flask web server with an endpoint /recommendation to get user recommendations.
 Generate recommendations by predicting interactions for all items and sorting them.
 
-[Download the dataset](https://github.com/Devendra0047/Real Time Recommendation System/"C:\Users\deven\Downloads\archive (1) 2\ratings_Electronics.csv")
+Dataset Used https://www.kaggle.com/datasets/vibivij/amazon-electronics-rating-datasetrecommendation/download?datasetVersionNumber=1
 
