@@ -11,5 +11,5 @@ Use the Surprise library to train an SVD-based collaborative filtering model.
 Evaluate the model using RMSE.
 
 Serving Recommendations:
-Create a Flask web server with an endpoint /recommend to get recommendations for a user.
-Generate recommendations by predicting interactions for all items and sorting them
+Create a Flask web server with an endpoint /recommendation to get user recommendations.
+Generate recommendations by predicting interactions for all items and sorting them.
